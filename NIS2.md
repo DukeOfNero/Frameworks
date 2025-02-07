@@ -69,8 +69,6 @@ Aktiva by měly být známá, identifikována a popsána, stejně tak kritické 
 
 Více o Hardware Asset Managementu
 
-Banner: S ALVAO získáte 100% přehled o firemním majetku
-
 10. Vícefaktorové ověřování a komunikační nástroje 
 Komunikace v týmech a organizaci by měla probíhat v rámci zabezpečených platforem a přístup k důležitým údajům by měl být podmíněn vícefaktorovým ověřováním. 
 
