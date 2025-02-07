@@ -14,19 +14,16 @@ Alfa-omega NIS2. Směrnice udává jako nezbytné zanalyzovat rizika na úrovni 
 
 NIS2 vám ukládá povinnost možným incidentům nejen předcházet, ale také být připraveni je vyřešit, zaevidovat a nahlásit příslušným orgánům. Řešení incidentů je hlavním bodem NIS2. Za nedodržování budou udělovány ty nejvyšší pokuty, protože i jeden závažný incident může paralyzovat podniky v několika zemích najednou.
 
-Incident = událost, která má negativní dopad na bezpečnost informačního systému nebo dat v organizaci. Incidentem je např. neoprávněný přístup k datům, šíření škodlivého softwaru (malware), ztráta dat, narušení normálního provozu, atd.
+>Incident = událost, která má negativní dopad na bezpečnost informačního systému nebo dat v organizaci. Incidentem je např. neoprávněný přístup k datům, šíření škodlivého softwaru (malware), ztráta dat, narušení normálního provozu, atd.
 
 NÚKIBU se musíte ozvat do 24 hodin od incidentu
 Obě regulovaná odvětví, jak important, tak essential, jsou povinny hlásit takové incidenty, které mají významný dopad na poskytování jejich služeb – nejpozději do 24 hodin od jejich zjištění. EU takové incidenty definuje jako událost, která způsobila nebo může způsobit:
 
-provozní narušení služeb nebo finanční ztráty dané organizaci.
-značnou materiální nebo nehmotnou újmu jiným fyzickým nebo právnickým osobám.
-Nemáte zkušenosti s řešením incidentů ve firmě? Rok na zavedení nutných opatření vám nemusí stačit
-Jestliže jste doteď v organizaci incidenty neřešili doporučujeme s opatřeními začít co nejdříve. Jedna věc je incident zvládnout, druhá je reportovat jeho průběh/dopad a přijmout opatření na jeho základě. Na obojí si NÚKIB posvítí při pravidelných kontrolách.
+>provozní narušení služeb nebo finanční ztráty dané organizaci.
+>značnou materiální nebo nehmotnou újmu jiným fyzickým nebo právnickým osobám.
 
-Jak incidenty zaznamenávat a řešit? Jak připravit organizaci na možné útoky? Konzultanti z ALVAO si připravili krátkou, ale trefnou přednášku o Řešení nejen bezpečnostních incidentů v praxi.
+Na obojí si NÚKIB posvítí při pravidelných kontrolách.
 
-Podívat se na záznam přednášky
 
 Banner na záznam přednášky: Řešení nejen bezpečtnostních incidentů v praxi
 
