@@ -9,9 +9,9 @@ Konkrétní požadavky na kybernetickou bezpečnost se budou lišit dle vašeho 
 
 Alfa-omega NIS2. Směrnice udává jako nezbytné zanalyzovat rizika na úrovni kybernetické bezpečnosti a připravit scénáře, které mimořádné situace řeší. K tomu potřebujete zmapovaná aktiva, informace o fungování ve firmě a firemní data v požadovaném detailu. Analýzu nebudete chtít vypracovávat na papír a ztráčet čas přepisováním a složitým dohledáváním informací, a proto navíc potřebujete nástroj, ve kterém ji provedete.
 
-ITSM nástroje od ALVAO vám pomohou s analýzou rizik
 
-2. Bezpečnostní incidenty
+**2. Bezpečnostní incidenty**
+
 NIS2 vám ukládá povinnost možným incidentům nejen předcházet, ale také být připraveni je vyřešit, zaevidovat a nahlásit příslušným orgánům. Řešení incidentů je hlavním bodem NIS2. Za nedodržování budou udělovány ty nejvyšší pokuty, protože i jeden závažný incident může paralyzovat podniky v několika zemích najednou.
 
 Incident = událost, která má negativní dopad na bezpečnost informačního systému nebo dat v organizaci. Incidentem je např. neoprávněný přístup k datům, šíření škodlivého softwaru (malware), ztráta dat, narušení normálního provozu, atd.
