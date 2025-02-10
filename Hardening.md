@@ -1,5 +1,18 @@
 <code>
 
+To comply with PCI DSS requirement 2.2, merchants must fix all identified vulnerabilities and comply with well-known hardening practices. The following organizations publish common industry-accepted standards that contain clear hardening guidelines:
+
+Center for Internet Security (CIS)
+International Organization for Standardization (ISO)
+SysAdmin, Audit, Network, and Security (SANS) Institute
+National Institute of Standards and Technology (NIST)
+You can also use and review other resources such as:
+
+Information Assurance Support Environment (IASE)
+Vendor hardening guides
+
+
+
 >Network Hardening
 Firewall configuration
 Regular network inspection
